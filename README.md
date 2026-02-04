@@ -27,7 +27,8 @@ Customer-identifying and address fields were removed to focus the analysis on tr
 Each question is answered using a dedicated SQL query stored in the `/sql` directory.
 
 ## Repository Structure
-'''
+
+```text
 Sales-Performance-Analysis/
 ├── Data/
 │   ├── raw_sales_data.csv
@@ -47,6 +48,7 @@ Sales-Performance-Analysis/
 │   ├── 06_highest_revenue_by_product.sql
 │   └── 07_data_quality_check.sql
 └── README.md
-'''
+```
+
 
 
